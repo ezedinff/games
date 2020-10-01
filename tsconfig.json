@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "esNext",
+    "target": "es2017",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  }
+}
